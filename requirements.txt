@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+scikit-learn
+matplotlib
+openai
+python-multipart
+sentence-transformers
+faiss-cpu
+python-dotenv
